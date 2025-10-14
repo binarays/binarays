@@ -6,7 +6,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcookee&show_icons=true&locale=en&theme=dracula"
             height="150" alt="streak graph" />
     </p>
-    <img src="https://github-profile-trophy.vercel.app/?username=mc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
+    <img src="https://github-profile-trophy.vercel.app/?username=mrcookee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
         height="150" alt="trophy graph" />
 </div>
 
