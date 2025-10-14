@@ -33,7 +33,7 @@
 - ⚡ Fun fact **The code compiles without errors 😂**
 
 <h3 align="left">Swags</h3>
- <img src="https://holopin.io/@mrcookee" alt="hacktoberfest"> 
+(https://holopin.io/@mrcookee)
 
 <h3 align="left">Latest Article</h3>
 <a href="https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704" target="_blank" rel="noreferrer">
