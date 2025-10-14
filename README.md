@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact **The code compiles without errors 😂**
 
-<h3 align="left">Swags</h3>
+# Swags
 [![An image of @linukaar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrcookee)](https://holopin.io/@mrcookee)
 
 <h3 align="left">Latest Article</h3>
