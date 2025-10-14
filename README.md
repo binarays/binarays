@@ -33,8 +33,11 @@
 - ⚡ Fun fact **The code compiles without errors 😂**
 
 <h3 align="left">Swags</h3>
-[![An image of @mrcookee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrcookee)](https://holopin.io/@mrcookee)
-
+<p align="center">
+  <a href="https://holopin.io/@lisa">
+    <img src="https://holopin.io/api/badge/clabcd123456789xyz.png" width="100" height="100" />
+  </a>
+</p>
 <h3 align="left">Latest Article</h3>
 <a href="https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704" target="_blank" rel="noreferrer">
         <img src="assets/Mediumlazy3Post.png" height="320" width="320" frameborder="0" allowfullscreen="" title="Embedded post">
