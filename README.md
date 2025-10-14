@@ -35,7 +35,7 @@
 <h3 align="left">Swags</h3>
 <p align="center">
   <a href="https://holopin.io/@lisa">
-    <img src="https://www.holopin.io/userbadge/cmgqs0zry007ll804vj74z3el" width="100" height="100" />
+    <img src="https://holopin.io/api/badge/clabcd123456789xyz.png" width="100" height="100" />
   </a>
 </p>
 <h3 align="left">Latest Article</h3>
