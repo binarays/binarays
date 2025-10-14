@@ -3,17 +3,17 @@
   <p align="center">
     <img 
       src="https://streak-stats.demolab.com?user=mrcookee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" 
-      height="150" 
+      height="150&v=1" 
       alt="GitHub Streak Stats" 
     />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcookee&show_icons=true&locale=en&layout=compact&theme=dracula" 
-      height="150" 
+      height="150&v=1" 
       alt="Top Languages" 
     />
   </p>
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=mrcookee&theme=monokai&row=1&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" 
+    src="https://github-profile-trophy.vercel.app/?username=mrcookee&theme=monokai&row=1&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false&v=1" 
     alt="GitHub Trophies" 
   />
 </div>
