@@ -18,21 +18,7 @@
   />
 </div>
 
-- 🔭 I’m currently working on [cookisniffer](https://github.com/mrcookee/cookisniffer)
-
-- 🌱 I’m currently learning **Web Application Pentesting**
-
-- 👯 I’m looking to collaborate on **Cyber Security Projects**
-
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@binarawijewickrama)
-
-- 💬 Ask me about **Python,C,and Bootstrap 5**
-
-- ⚡ Fun fact **The code compiles without errors 😂**
-
-# Swags
+# Hacktober Swags
 [![An image of @linukaar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrcookee)](https://holopin.io/@mrcookee)
 
 <h3 align="left">Latest Article</h3>
