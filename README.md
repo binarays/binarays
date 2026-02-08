@@ -2,7 +2,7 @@
 <div align="center">
   <p align="center">
     <img 
-      src="https://streak-stats.demolab.com?user=binarays&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" 
+      src="https://github-readme-stats.vercel.app/api?username=binarays&show_icons=true&theme=tokyonight" 
       height="150&v=1" 
       alt="GitHub Streak Stats" 
     />
