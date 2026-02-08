@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Binara Wijewickrama</h1>
+# About me
 
 ![](https://github-readme-stats.vercel.app/api?username=binarays&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=binarays&theme=dark&hide_border=false)<br/>
@@ -21,6 +21,6 @@
 ---
 
 ### Get in Touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binara-wijewickrama) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@binarawijewickrama) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binara-wijewickrama) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@binarawijewickrama) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
