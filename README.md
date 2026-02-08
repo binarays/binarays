@@ -13,10 +13,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-## Blog Post
+### Blog Post
 
 <li><a href="https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704">Mastering LazyS3: The Complete Guide for Effortless S3 Management</a></li>
-
+---
 ### Tech Stack:
 <p align="left">
   <img src="/assets/python.png" width="40" height="40"/>
