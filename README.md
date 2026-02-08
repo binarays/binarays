@@ -1,5 +1,5 @@
 
-# About me
+<h1>ABOUT <p style="color =red;">ME</p></h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=binarays&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=binarays&theme=dark&hide_border=false)<br/>
