@@ -42,6 +42,11 @@
 ---
 
 ### Get in Touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binara-wijewickrama) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@binarawijewickrama) 
+<a href="https://linkedin.com/in/binara-wijewickrama" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+</a>
+<a href="https://medium.com/@binarawijewickrama" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" height="40" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
