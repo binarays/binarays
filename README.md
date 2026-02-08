@@ -1,141 +1,95 @@
-<h1 align="center">WELCOME</h1>
-<div align="center">
-  <p align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=binarays&show_icons=true&theme=tokyonight" 
-      height="150" 
-      alt="GitHub Streak Stats" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=binarays&show_icons=true&locale=en&layout=compact&theme=dracula" 
-      height="150&v=1" 
-      alt="Top Languages" 
-    />
-  </p>
+# <p align="center">WELCOME</p>
+
+<p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=binarays&theme=monokai&row=1&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false&v=1" 
-    alt="GitHub Trophies" 
+    src="https://github-readme-stats.vercel.app/api?username=binarays&show_icons=true&theme=tokyonight" 
+    height="150" 
+    alt="GitHub Stats"
   />
-</div>
+</p>
 
-# Hacktober Swags
-[![An image of @linukaar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrcookee)](https://holopin.io/@mrcookee)
+## 📊 GitHub Stats
 
-<h3 align="left">Latest Article</h3>
-<a href="https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704" target="_blank" rel="noreferrer">
-        <img src="assets/Mediumlazy3Post.png" height="320" width="320" frameborder="0" allowfullscreen="" title="Embedded post">
-    </a>
+![](https://github-readme-stats.vercel.app/api?username=binarays\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
-    
-    
-<div align="left">
-    <table>
-        <!-- Programming Languages Section -->
-        <tr>
-            <th colspan="5">Programming Languages</th>
-        </tr>
-        <tr>
-            <td><a href="https://www.python.org" target="_blank" rel="noreferrer">
-                    <img src="assets/python.gif"
-                        alt="python" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                    <img src="assets/cpg.gif" alt="c" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                    <img src="assets/csharp.gif"
-                        alt="csharp" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.java.com" target="_blank" rel="noreferrer">
-                    <img src="assets/java.gif" alt="java" width="40" height="40" />
-                </a></td>
-            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                    <img src="assets/javascript.gif"
-                        alt="javascript" width="40" height="40" />
-                </a></td>
-        </tr>
-        <!-- Frontend Technologies Section -->
-        <tr>
-            <th colspan="5">Frontend Technologies</th>
-        </tr>
-        <tr>
-            <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"
-                        width="40" height="40" />
-                </a></td>
-            <td><a href="https://react.dev/" target="_blank" rel="noreferrer">
-                    <img src="assets/react.gif" alt="react"
-                        width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                        alt="css3" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                        alt="html5" width="40" height="40" />
-                </a></td>
-            <td><a href="#" target="_blank" rel="noreferrer">
-                    <img src="assets/gift.gif"
-                        alt="python" width="40" height="40" />
-                </a></td>
-        </tr>
-        <!-- Backend & Backend as a Service (Baas) Section -->
-        <tr>
-            <th colspan="5">Backend & Backend as a Service (Baas)</th>
-        </tr>
-        <tr>
-            <td><a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs" width="40" height="40" />
-                </a></td>
-            <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-                        height="40" />
-                </a></td>
-            <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-                    <img src="assets/oracle.png" alt="oracle" width="40" height="40" />
-                </a></td>
-            <td><a href="#" target="_blank" rel="noreferrer">
-                    <img src="assets/gift.gif"
-                        alt="python" width="40" height="40" />
-                </a></td>
-        </tr>
-        <!-- Softwares Section -->
-        <tr>
-            <th colspan="5">Softwares</th>
-        </tr>
-        <tr>
-            <td><a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-                    <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40"
-                        height="40" />
-                </a></td>
-            <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-                </a></td>
-            <td><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-                    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-                        alt="blender" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                    <img src="assets/figma.gif" alt="figma" width="40" height="40"/>
-                </a></td>
-            <td><a href="https://postman.com" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                        height="40"/>
-                </a></td>
-        </tr>
-    </table>
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=binarays\&theme=dark\&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=binarays\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
+---
 
-<h3 align="left">Connect with me:</h3>
+[![](https://visitcount.itsvg.in/api?id=binarays\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=binarays&show_icons=true&locale=en&layout=compact&theme=dracula" 
+    height="150" 
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=binarays&theme=monokai&row=1&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" 
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## Hacktober Swags
+
+[![Holopin Badges](https://holopin.me/mrcookee)](https://holopin.io/@mrcookee)
+
+---
+
+### Latest Article
+
+[![Medium Article](assets/Mediumlazy3Post.png)](https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704)
+
+---
+
+## 🧠 Skills & Technologies
+
+### Programming Languages
+
+|                                                                                 |                                                                                     |                                                                                        |                                                                             |                                                                                                                      |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://www.python.org"><img src="assets/python.gif" width="40" /></a> | <a href="https://www.cprogramming.com/"><img src="assets/cpg.gif" width="40" /></a> | <a href="https://www.w3schools.com/cs/"><img src="assets/csharp.gif" width="40" /></a> | <a href="https://www.java.com"><img src="assets/java.gif" width="40" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/javascript.gif" width="40" /></a> |
+
+---
+
+### Frontend Technologies
+
+|                                                                                                                                          |                                                                            |                                                                                                                                                                       |                                                                                                                                                                   |                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| <a href="https://getbootstrap.com"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40" /></a> | <a href="https://react.dev/"><img src="assets/react.gif" width="40" /></a> | <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a> | <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a> | <img src="assets/gift.gif" width="40" /> |
+
+---
+
+### Backend & BaaS
+
+|                                                                                                                                                               |                                                                                                                                  |                                                                                                                                                                       |                                                                                  |                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------- |
+| <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a> | <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /></a> | <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /></a> | <a href="https://www.oracle.com/"><img src="assets/oracle.png" width="40" /></a> | <img src="assets/gift.gif" width="40" /> |
+
+---
+
+### Softwares
+
+|                                                                                                                                  |                                                                                                                    |                                                                                                                                                   |                                                                                |                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://code.visualstudio.com"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" /></a> | <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" /></a> | <a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" /></a> | <a href="https://www.figma.com/"><img src="assets/figma.gif" width="40" /></a> | <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a> |
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-    <a href="https://linkedin.com/in/binara-wijewickrama" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-    <a href="https://medium.com/@binarawijewickrama" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=Medium&label=&color=ffffff&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://linkedin.com/in/binara-wijewickrama">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://medium.com/@binarawijewickrama">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=Medium&color=ffffff&logoColor=000000&style=for-the-badge" height="35" />
+  </a>
 </p>
