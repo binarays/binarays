@@ -22,6 +22,22 @@
 <p align="center">
   <img src="/assets/python.png" width="40" height="40"/>
   <img src="/assets/typescript.png" width="40" height="40"/>
+  <img src="/assets/javascript.png" width="40" height="40"/>
+  <img src="/assets/bootstrap.png" width="40" height="40"/>
+  <img src="/assets/react.png" width="40" height="40"/>
+  <img src="/assets/vite.png" width="40" height="40"/>
+  <img src="/assets/tailwind.png" width="40" height="40"/>
+  <img src="/assets/flask.png" width="40" height="40"/>
+  <img src="/assets/github.png" width="40" height="40"/>
+  <img src="/assets/jenkins.png" width="40" height="40"/>
+  <img src="/assets/docker.png" width="40" height="40"/>
+  <img src="/assets/wordpress.png" width="40" height="40"/>
+  <img src="/assets/aws.png" width="40" height="40"/>
+  <img src="/assets/azure.png" width="40" height="40"/>
+  <img src="/assets/firebase.png" width="40" height="40"/>
+  <img src="/assets/heroku.png" width="40" height="40"/>
+  <img src="/assets/figma.png" width="40" height="40"/>
+  <img src="/assets/linux.png" width="40" height="40"/>
 </p>
 
 ---
