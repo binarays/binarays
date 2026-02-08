@@ -3,7 +3,7 @@
   <p align="center">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=binarays&show_icons=true&theme=tokyonight" 
-      height="150&v=1" 
+      height="150" 
       alt="GitHub Streak Stats" 
     />
     <img 
