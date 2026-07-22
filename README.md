@@ -8,27 +8,27 @@
 
 ---
 
-### Dev Quote
+## Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### Featured Projects
+## Featured Projects
 
 - [**Morana_OSINT**](https://github.com/binarays/Morana_OSINT)
 
 ---
-### Blog Post
+## Blog Post
 
 - [Mastering LazyS3: The Complete Guide for Effortless S3 Management](https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704")
 
 ---
 
-### Swags
+## Swags
 [![An image of @mrcookee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrcookee)](https://holopin.io/@mrcookee)
 
 
---
+---
 
 ### Tech Stack:
 <p align="left">
