@@ -24,6 +24,12 @@
 
 ---
 
+### Swags
+[![An image of @binarays's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/binarays)](https://holopin.io/@binarays)
+
+
+--
+
 ### Tech Stack:
 <p align="left">
   <img src="/assets/python.png" width="40" height="40"/>
