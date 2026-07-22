@@ -25,7 +25,7 @@
 ---
 
 ### Swags
-[![An image of @binarays's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/binarays)](https://holopin.io/@binarays)
+[![An image of @mrcookee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrcookee)](https://holopin.io/@mrcookee)
 
 
 --
