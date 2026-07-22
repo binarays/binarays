@@ -33,6 +33,7 @@
   <img src="/assets/figma.png" width="40" height="40"/>
   <img src="/assets/linux.png" width="40" height="40"/>
 </p>
+
 ### Get in Touch:
 <a href="https://linkedin.com/in/binara-wijewickrama" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
