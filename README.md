@@ -12,6 +12,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
+### Featured Projects
+
+- [Morana_OSINT][https://github.com/binarays/Morana_OSINT]
+
+---
 ### Blog Post
 
 <li><a href="https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704">Mastering LazyS3: The Complete Guide for Effortless S3 Management</a></li>
