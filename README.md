@@ -20,7 +20,7 @@
 ---
 ### Blog Post
 
-<li><a href="https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704">Mastering LazyS3: The Complete Guide for Effortless S3 Management</a></li>
+- [Mastering LazyS3: The Complete Guide for Effortless S3 Management](https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704")
 
 ---
 
@@ -55,5 +55,3 @@
 <a href="https://medium.com/@binarawijewickrama" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40" />
 </a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
