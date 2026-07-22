@@ -15,7 +15,7 @@
 
 ### Featured Projects
 
-- [Morana_OSINT][https://github.com/binarays/Morana_OSINT]
+- [**Morana_OSINT**](https://github.com/binarays/Morana_OSINT)
 
 ---
 ### Blog Post
