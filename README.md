@@ -4,9 +4,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=binarays&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=binarays&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-contributor-stats.vercel.app/api?username=binarays&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](/asset/night.gif)
+[!](asset/night.gif)
 ## Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ## Featured Projects
 - [**Morana_OSINT**](https://github.com/binarays/Morana_OSINT)
 ## Blog Post
