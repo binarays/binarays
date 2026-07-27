@@ -1,18 +1,26 @@
+<p align="center">
+  <img src="assets/night.gif" alt="Night GIF" width="100%">
+</p>
+
 # ABOUT ![ME](https://img.shields.io/badge/ME-red?style=for-the-badge&logoColor=white)
 ![](https://github-readme-stats.vercel.app/api?username=binarays&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=binarays&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=binarays&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=binarays&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-contributor-stats.vercel.app/api?username=binarays&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[!](asset/night.gif)
+
 ## Dev Quote
-[!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## Featured Projects
 - [**Morana_OSINT**](https://github.com/binarays/Morana_OSINT)
+
 ## Blog Post
 - [Mastering LazyS3: The Complete Guide for Effortless S3 Management](https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704")
+
 ## Swags
 [![An image of @mrcookee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrcookee)](https://holopin.io/@mrcookee)
+
 ### Tech Stack:
 <p align="left">
   <img src="/assets/python.png" width="40" height="40"/>
