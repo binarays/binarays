@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/night.gif" alt="Night GIF" width="100%">
+  <img src="assets/space.gif" alt="Night GIF" width="100%">
 </p>
 
 # ABOUT ![ME](https://img.shields.io/badge/ME-red?style=for-the-badge&logoColor=white)
