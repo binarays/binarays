@@ -16,7 +16,7 @@
 - [**Morana_OSINT**](https://github.com/binarays/Morana_OSINT)
 
 ## Contributions
-- [SmartCare AI Console](https://github.com/heshanthilakawardena/smartcare-noshow-ai)
+- [**SmartCare AI Console**](https://github.com/heshanthilakawardena/smartcare-noshow-ai)
 
 ## Blog Post
 - [Mastering LazyS3: The Complete Guide for Effortless S3 Management](https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704")
