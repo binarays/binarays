@@ -14,6 +14,7 @@
 
 ## Featured Projects
 - [**Morana_OSINT**](https://github.com/binarays/Morana_OSINT)
+- [**MinCare**](https://github.com/binarays/MindCare)
 
 ## Contributions
 - [**SmartCare AI Console**](https://github.com/heshanthilakawardena/smartcare-noshow-ai)
