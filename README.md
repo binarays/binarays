@@ -3,6 +3,12 @@
 </p>
 
 # ABOUT ![ME](https://img.shields.io/badge/ME-red?style=for-the-badge&logoColor=white)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=binarays&theme=tokyonight&hide_border=true" alt="Git Streak" width="100%">
+</p>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=binarays&theme=tokyo-night)
 ![](https://github-readme-stats.vercel.app/api?username=binarays&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=binarays&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=binarays&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
