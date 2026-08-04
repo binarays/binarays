@@ -5,7 +5,7 @@
 # ABOUT ![ME](https://img.shields.io/badge/ME-red?style=for-the-badge&logoColor=white)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=binarays&theme=tokyonight&hide_border=true" alt="Git Streak" width="100%">
+  <img src="https://streak-stats.demolab.com?user=binarays&theme=tokyonight&hide_border=true" alt="Git Streak" width="60%">
 </p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=binarays&theme=tokyo-night)
