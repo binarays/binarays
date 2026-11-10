@@ -19,6 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## Featured Projects
+- [**SOC Home Lab**](https://github.com/binarays/Home_Lab)
 - [**Morana_OSINT**](https://github.com/binarays/Morana_OSINT)
 - [**Mindcare**](https://github.com/binarays/MindCare)
 
