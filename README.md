@@ -25,6 +25,7 @@
 
 ## Contributions
 - [**SmartCare AI Console**](https://github.com/heshanthilakawardena/smartcare-noshow-ai)
+- [**Project Uranus**](https://github.com/binarays/project_uranus)
 
 ## Blog Post
 - [Mastering LazyS3: The Complete Guide for Effortless S3 Management](https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704")
